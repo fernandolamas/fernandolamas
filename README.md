@@ -1,6 +1,6 @@
 Hi there 👋, I'm Fernando.
 
-Feel free to contact me at [fernandolamasw@gmail.com](fernandolamasw@gmail.com)
+Feel free to contact me at [fernandolamasw@gmail.com](mailto:fernandolamasw@gmail.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolamas&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
