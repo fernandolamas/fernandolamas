@@ -1,4 +1,4 @@
-Hi there 👋, I'm Fernando.
+Hi there 👋
 
 Feel free to contact me at [fernandolamasw@gmail.com](mailto:fernandolamasw@gmail.com)
 
